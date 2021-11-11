@@ -11,5 +11,9 @@ public class gittest {
 		 System.out.println("Studentid : 179");
 		
 	}
+	 private void Studentaddress() {
+		System.out.println("Studentaddress : 1422");
+
+	}
 
 }
